@@ -1,0 +1,17 @@
+;[ defaults ]
+; nbfunc        comb-rule       gen-pairs       fudgeLJ fudgeQQ
+;     1 2      yes    0.500000 0.500000
+
+#include "forcefield.itp"
+#include "DMC_TraPPE.itp"
+#include "Li_80pc_q.itp"
+#include "PF6_80pc_q.itp"
+
+
+[ system ]
+DMC_Li_salt
+
+[ molecules ]
+DMC      3251
+Li        350
+PF6       350
