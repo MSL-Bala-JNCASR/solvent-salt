@@ -29,6 +29,6 @@ DATA & FILE OVERVIEW
 
 File list:
  
- (i) gromacs-input-files: GROMACS gro, itp, and top files used throughout this work.
+ (i) gromacs-input-files: GROMACS gro, mdp, itp, and top files used throughout this work.
  
 (ii) analysis-codes: codes for viscosity and partial ionic conductivities.  
