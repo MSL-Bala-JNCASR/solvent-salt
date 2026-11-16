@@ -14,7 +14,12 @@ GENERAL INFORMATION
    
    B) Associate or Co-investigator Contact Information
    
-   (1) Name: Mansi Jain
+   Name: Mansi Jain
+
+   Institution: Chemistry and Physics of Materials Unit, JNCASR
+
+   Email: mansijain@jncasr.ac.in
+
 
 The support and the resources provided by “PARAM Yukti Facility” under the National Supercomputing Mission, Government of India, at the Jawaharlal Nehru Centre For Advanced Scientiﬁc Research are gratefully acknowledged.
 
